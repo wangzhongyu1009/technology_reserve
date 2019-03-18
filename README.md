@@ -1,6 +1,6 @@
 # technology_reserve
 个人技术栈
 
-一.web代码优化
+一.算法，数据结构，正则表达式
 
-    1.test1
+    1.二分法
