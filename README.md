@@ -7,4 +7,4 @@
 
 二.前端代码优化
 
-    1.JavaScript 复杂判断的更优雅写法  
+    1.JavaScript 复杂判断的更优雅写法  https://github.com/wangzhongyu1009/optimize_code.git
